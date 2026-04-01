@@ -503,8 +503,8 @@ def admin_dashboard():
 
 
 def platform_architecture():
-    st.markdown("<div class='section-title'>Suggested Streamlit Architecture</div>", unsafe_allow_html=True)
-
+    st.markdown("<div class='section-title'> Architecture</div>", unsafe_allow_html=True)
+# Suggested Streamlit
 #     st.code(
 #         """
 # project/
