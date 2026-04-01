@@ -527,15 +527,15 @@ def platform_architecture():
 #         language="bash",
 #     )
 
-    st.markdown("""
-**Recommended backend evolution**
-- **Frontend:** Streamlit
-- **Authentication:** Streamlit auth or external identity provider
-- **Database:** PostgreSQL / Supabase / Firebase
-- **File storage:** S3 or equivalent
-- **AI engine:** OpenAI / Azure OpenAI / local LLM workflow
-- **Analytics pipeline:** event logging + dashboard aggregation
-""")
+#      st.markdown("""
+#  **Recommended backend evolution**
+#  - **Frontend:** Streamlit
+#  - **Authentication:** Streamlit auth or external identity provider
+#  - **Database:** PostgreSQL / Supabase / Firebase
+#  - **File storage:** S3 or equivalent
+#  - **AI engine:** OpenAI / Azure OpenAI / local LLM workflow
+#  - **Analytics pipeline:** event logging + dashboard aggregation
+#  """)
 
 
 # ------------------------------------------------------------
